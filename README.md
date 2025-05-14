@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Add_PayPal_Integration-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Add PayPal Integration" />
   <img src="https://img.shields.io/badge/Master_Data_Structures-4285F4?style=for-the-badge" alt="Master Data Structures" />
   <img src="https://img.shields.io/badge/Focus_on_Clean_Code-34A853?style=for-the-badge" alt="Focus on Clean Code" />
-  <img src="https://img# <div align="center">👋 Hi there! I'm Adesh Mishra</div>
+  <img src="https://github.com/adesh9201/developer-portfolio/blob/main/src/images/portfolio.png" <div align="center">👋 Hi there! I'm Adesh Mishra</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;Flutter+Developer;Clean+Code+Advocate;Problem+Solver" alt="Typing SVG" />
