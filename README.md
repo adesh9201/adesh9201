@@ -134,12 +134,30 @@ const adeshMishra = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeshmishra-dev&show_icons=true&theme=tokyonight" alt="Adesh's GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshmishra-dev&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170px" />
+  
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=adeshmishra-dev&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" 
+    alt="Adesh's GitHub Stats" 
+    height="170px" 
+  />
+  
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeshmishra-dev&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+    height="170px" 
+  />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adeshmishra-dev&theme=tokyonight" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=adeshmishra-dev&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+  />
 </div>
 
 ## 💼 Technical Expertise
